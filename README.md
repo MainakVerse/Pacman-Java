@@ -18,7 +18,7 @@
  <tr>
   <td>
    <h2>ALGORITHM</h2>
-   <p>Each of the four ghosts in Pac-Man has its own unique artificial intelligence (A.I.). Blinky directly chases Pac-Man, while Pinky and Inky try to position themselves in front of Pac-Man. Clyde alternates between chasing and fleeing from Pac-Man. An algorithm dictates the movements of the ghosts as they pursue Pac-Man.</p>
+   <p>Each of the four ghosts in Pac-Man has its own unique artificial intelligence (A.I.). Blinky directly chases Pac-Man, while Pinky and Inky try to position themselves in front of Pac-Man. Clyde alternates between chasing and fleeing from Pac-Man. An algorithm dictates the movements of the ghosts as they pursue Pac-Man. This game can be implemented using Python with the Pygame library, employing AI search algorithms such as A* search and Uniform Cost Search to develop intelligent ghost behavior</p>
   </td>
  </tr>
 </table>
