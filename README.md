@@ -1,6 +1,6 @@
 # PACMAN
 
- <img src="https://github.com/user-attachments/assets/adf916f8-0cdd-4aa5-a500-ed614b0e680f" style="width: 100%; height: auto;">
+ <img src="https://github.com/user-attachments/assets/adf916f8-0cdd-4aa5-a500-ed614b0e680f">
 
 <table>
   <tr>
